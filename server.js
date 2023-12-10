@@ -1,5 +1,4 @@
 const express = require("express");
-const db = require("./db");
 const recipesRouter = require("./routes/recipes.routes.js");
 const ingredientsRouter = require("./routes/ingredients.routes.js");
 
